@@ -137,9 +137,9 @@ public class Cli {
 
     public static void showResult(int result, String name) {
         if (result == 1) {
-            System.out.printf("Congratulations, %s!", name);
+            System.out.printf("Congratulations, %s!\n", name);
         } else {
-            System.out.printf("Let's try again, %s!", name);
+            System.out.printf("Let's try again, %s!\n", name);
         }
     }
 
