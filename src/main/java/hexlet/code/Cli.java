@@ -53,6 +53,12 @@ public class Cli {
                 System.out.println("Answer 'yes' if number even otherwise answer 'no'.");
             case  3:
                 System.out.println("What is the result of the expression?");
+            case 4:
+                System.out.println("Find the greatest common divisor of given numbers.");
+            case 5:
+                System.out.println("What number is missing in the progression?");
+            case 6:
+                System.out.println("Answer 'yes' if given number is prime. Otherwise answer 'no'.");
         }
     }
 
