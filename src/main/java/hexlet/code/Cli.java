@@ -20,7 +20,7 @@ public class Cli {
     private static final int PRIME = 6;
     private static final int UPPER_LIMIT = 100;
     private static final int STEP = 3;
-    private static final int LOWER_BOUND = 4;
+    private static final int LOWER_BOUND = 5;
     private static final int NUMBER_OF_OPERATIONS = 3;
     private static final int MULTIPLIER = 4;
     private static final int MAX_VALUE = 1000;
